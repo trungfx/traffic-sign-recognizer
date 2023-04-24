@@ -1,0 +1,6 @@
+Flask
+Flask-RESTful
+tensorflow
+numpy
+opencv-python
+werkzeug
